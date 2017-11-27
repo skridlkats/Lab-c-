@@ -1,0 +1,13 @@
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\bin\Debug\CheckEmail.exe.config
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\bin\Debug\CheckEmail.exe
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\bin\Debug\CheckEmail.pdb
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.csprojResolveAssemblyReference.cache
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.Form1.resources
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.Properties.Resources.resources
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.csproj.GenerateResource.Cache
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.csproj.CoreCompileInputs.cache
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.exe
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.pdb
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.csproj.ResolveComReference.cache
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.Form2.resources
+C:\Users\Talantseva Ekaterina\source\repos\CheckEmail\CheckEmail\obj\Debug\CheckEmail.Form3.resources
