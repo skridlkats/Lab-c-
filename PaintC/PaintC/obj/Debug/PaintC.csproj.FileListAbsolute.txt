@@ -1,0 +1,10 @@
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\bin\Debug\PaintC.exe.config
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\bin\Debug\PaintC.exe
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\bin\Debug\PaintC.pdb
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\obj\Debug\PaintC.csprojResolveAssemblyReference.cache
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\obj\Debug\PaintC.Form1.resources
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\obj\Debug\PaintC.Properties.Resources.resources
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\obj\Debug\PaintC.csproj.GenerateResource.Cache
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\obj\Debug\PaintC.csproj.CoreCompileInputs.cache
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\obj\Debug\PaintC.exe
+c:\users\talantseva ekaterina\source\repos\PaintC\PaintC\obj\Debug\PaintC.pdb
